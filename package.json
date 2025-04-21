@@ -1,0 +1,23 @@
+{
+  "name": "typescript---playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimranMandal/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimranMandal/TypeScript/issues"
+  },
+  "homepage": "https://github.com/SimranMandal/TypeScript#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
